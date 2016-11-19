@@ -22,6 +22,4 @@ create a new file "index.html" with
       
  in "Applozic-Web-Plugin/message/fullview/".
  
- 
- 
- 
+ Open "Applozic-Web-Plugin/message/fullview/index.html". The plugin works fine but when it comes to "emoji" it is showing codes instead emoji in both to reciever and in notification popup.
