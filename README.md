@@ -20,3 +20,5 @@ create a new file "index.html" with
  in "testAppLozic/message/fullview/".
  
  Open "testAppLozic/message/fullview/index.html". The plugin works fine but when it comes to "emoji" it is showing codes instead emoji in both to reciever and in notification popup.
+ 
+ Also when testing with "appId" as 'applozic-sample-app' emojis works fine but when I put "appId" from application that I have generated it shows codes instead emoji.
